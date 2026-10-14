@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,fastapi,nodejs,supabase" />
 <br/>
-<img src="https://skillicons.dev/icons?i=express,django,docker,git,sqlite,bash,linux,solidity" />
+<img src="https://skillicons.dev/icons?i=express,django,docker,git,postgres,firebase,bash,linux,solidity" />
 
 </div>
 
