@@ -1,20 +1,26 @@
 <div align="center">
 
-# Hi There! 👋
+# Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=baronocasiones&color=blue&style=flat)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=baronocasiones&label=Profile%20Views&left_color=222222&right_color=1a7f37)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+Developer&center=true&width=440&height=55&font=Fira+Code&pause=1000" />
+
+<br/>
+
+<em>Welcome to my corner of the internet ☕ — I build friendly, dependable software that works where it matters. Take a look around!</em>
 
 </div>
 
 <hr/>
 
-**Full-Stack Developer | Aspiring Agentic AI Engineer**
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,dart,flutter,lua,java,html,css" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,docker,git,bash,linux,figma" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,docker,git,bash,linux,solidity" />
 
 </div>
 
